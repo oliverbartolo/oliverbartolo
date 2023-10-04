@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @oliverbartolo
 - 👀 I’m interested in Data Science & Analytics, Sports, and Gaming 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python, Tableau, Russian, and Italian
+
+- 📫 How to reach me oliver.bartolo@outlook.com 
 
 <!---
 oliverbartolo/oliverbartolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
