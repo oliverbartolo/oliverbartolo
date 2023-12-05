@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oliverbartolo
 - 👀 I’m interested in Data Science & Analytics, Sports, and Gaming 
-- 🌱 I’m currently learning Python, Tableau, Russian, and Italian
+- 🌱 I’m consistinetly improving skills in Python, Tableau, Russian, and Italian
 
 - 📫 How to reach me www.linkedin.com/in/oliver.bartolo
 - 📊 Check out Vizzes on https://public.tableau.com/app/profile/oliver.bartolo2058/vizzes 
